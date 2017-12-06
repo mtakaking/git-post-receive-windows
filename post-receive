@@ -1,0 +1,6 @@
+#!C:/Program\ Files/Git/bin/sh.exe -xv
+git push remote master
+
+unset GIT_DIR
+cd ../path/to/git
+git pull origin master
